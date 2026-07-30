@@ -1,0 +1,2 @@
+# Dibetes-Prediction
+Disease prediction
