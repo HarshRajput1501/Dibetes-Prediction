@@ -1,3 +1,5 @@
 # Dibetes-Prediction
-Disease prediction,
-In this code i have used Dataset of 768 rows and 9 columns using which we will identify wether the person the is having dibetes or not.I first changed zero to null value and then i filled null value with meadian method.I used python and its libraries like Pandas and Numpy
+# 🩺 Diabetes Data Analysis
+
+This is my first data analysis project using Python. In this project, I used Pandas and NumPy to work with a diabetes dataset. I learned how to load the dataset, check its information, find missing values, replace incorrect values, and clean the data using the median. This project helped me understand the basics of data preprocessing and gave me hands-on practice with Python for data analysis.
+
